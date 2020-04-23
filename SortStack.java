@@ -12,7 +12,7 @@ public class SortStack {
       while(!b.isEmpty()) {
         a.push(b.pop());
       }
-	}
+   }
   
   public static void main(String[] args) throws Exception {
 		
